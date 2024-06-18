@@ -2,6 +2,7 @@
 # Data Science Internship Task 3
 <br>
 Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+
 ## Introduction
 This project focuses on building a robust decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Using the Bank Marketing dataset from the UCI Machine Learning Repository, we aim to develop a model that accurately forecasts customer purchasing decisions. By harnessing the power of data analytics, this initiative seeks to provide actionable insights that can enhance marketing strategies and drive successful business outcomes. Join me in exploring how data-driven techniques can transform customer engagement and optimize marketing efforts.
 
